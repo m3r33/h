@@ -1,0 +1,7 @@
+name = "square-salad-35a1"
+main = "src/worker.js"
+compatibility_date = "2024-07-27"
+workers_dev = true
+
+[vars]
+Recepient = "bad0men@proton.me"

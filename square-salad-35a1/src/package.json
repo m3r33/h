@@ -1,0 +1,9 @@
+{
+  "name": "square-salad-35a1",
+  "version": "1.0.0",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "resend": "^3.5.0"
+  }
+}
